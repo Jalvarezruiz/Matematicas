@@ -1,0 +1,28 @@
+Examen del Tema 1 - MATRICES
+----------------------------
+1.-Hoy es jueves, te levantas enfermo y el sábado tienes una boda. Calcula, a partir de la matriz de transferencia que aparece, la probabilidad de que el sábado te levantes bien.
+
+|=== 
+|  Matrix de transición | Mañana estaré malo |  Mañana estaré mejor
+| Si hoy estoy malo | 65% | 35%
+| si hoy estoy bien | 25% | 75%
+|===
+
+2.-Dadas las matrices A y B, calcula  a) 2A - B;  b) At;   c)Bt;       d)(AxB)t
+
+stem:A=[((2,0,1\),(3,0,0\),(5,1,1\)]
+
+stem:B=[((1,0,1\),(1,2,1\),(1,1,0\)]
+
+3.-Calcular matriz inversa (orden 3x3 por Gauss Jordan; la 2x2 por definición)
+
+stem:A=[((1,-1,0\),(0,1,0\),(2,0,1\)]
+stem:A=[((1,0\),(2,1\)]
+
+4.-Calcular el rango de la matriz siguiente:
+
+stem:A=[((2,-1,0,7\),(1,0,1,3\),(3,2,7,7\)]
+
+5.-Representa las conexiones entre ciudades de este mapa mediante una matriz de adyacencia de teoría de grafos. Fíjate en las flechas.
++
+image:https://i.imgur.com/AEkqoRn.jpg[alt="not bad.",width=128,height=128]
