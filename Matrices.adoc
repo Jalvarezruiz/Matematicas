@@ -1,3 +1,5 @@
+:stem:
+
 Examen del Tema 1 - MATRICES
 ----------------------------
 1.-Hoy es jueves, te levantas enfermo y el sábado tienes una boda. Calcula, a partir de la matriz de transferencia que aparece, la probabilidad de que el sábado te levantes bien.
