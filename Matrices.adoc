@@ -1,4 +1,4 @@
-stem:[[[a,b\],[c,d\]\]((n),(k))].
+stem:[sqrt(4) = 2].
 
 Examen del Tema 1 - MATRICES
 ----------------------------
