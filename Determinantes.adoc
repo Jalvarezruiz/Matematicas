@@ -1,0 +1,24 @@
+= Examen del Tema 2 - DETERMINANTES
+:awestruct-layout: base
+:showtitle:
+:prev_section: defining-frontmatter
+:next_section: creating-pages
+:stem:
+
+1.-Hallar k para que la matriz A no tenga inversa:
+
+stem:[A=((k,1,-1\),(0,2,k\),(4,0,-k\))]
+
+2.-Calcular el rango de la matriz A para los distintos valores de "a":
+
+stem:[A=((2,2,0\),(0,3,2\),(-1,a,2\))]
+
+3.-Encontrar una matriz X tal que AX+B=2C
+
+stem:[A=((2,0\),(1,-1\))]
+stem:[B=((3,1,0\),(-1,2,1\))]
+stem:[C=((4,-1,0\),(0,0,1\))]
+
+4.-Calcular el determinante de la matriz por Gauss y por recurrencia.
+
+stem:[A=((2,-1,0\),(1,0,1\),(2,1,1\))]
