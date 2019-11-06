@@ -1,0 +1,20 @@
+= Examen Sistemas de Ecuaciones e Inecuaciones
+:awestruct-layout: base
+:showtitle:
+:prev_section: defining-frontmatter
+:next_section: creating-pages
+:stem:
+
+1.-Discutir el siguiente sistema de ecuaciones en función del parámetro a:
+
+stem:[((x,\+,y,+,2z,=,2\),(2x,\+,3y,+,z,=,1\),(-x,\+,ay,+,3z,=,3\))]
+
+2.- Resolver el sistema anterior por los 3 métodos cuando a=2.
+
+3.- Resolver el sistema de inecuaciones siguiente:
+
+stem:[((2x,\-,y,>=,1\),(x,\+,y,>=,5\),(7x,\+,y,<=,35\))]
+
+4.- Resolver el sistema de inecuaciones siguiente:
+
+stem:[((2x^2,\-,3,<=,6x,\+,5\),(7x,\+,1,<=,13,+,4x\))]
